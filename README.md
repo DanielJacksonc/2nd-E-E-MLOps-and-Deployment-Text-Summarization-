@@ -36,8 +36,8 @@ able to create a Text Summarizer from scratch.
 Update config.yaml in config
 Update params.yaml
 Update entity -------------------------------- in src - textsummerizer - enitiy - __init_py
-Update the configuration manager in src config
-update the conponents in src
+Update the configuration manager in src config -------------------------------- src - config - configurationmanager
+update the conponents in src---------------src-components - dataingestion.py
 update the pipeline in src
 update the main.py
 update the app.py
