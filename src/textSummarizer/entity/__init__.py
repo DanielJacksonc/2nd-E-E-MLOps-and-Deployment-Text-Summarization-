@@ -20,3 +20,17 @@ class DataValidationConfig:
     root_dir: Path  #the path to the root
     STATUS_FILE: str #the data type of the file
     ALL_REQUIRED_FILES: list #a list of all the required files
+    
+    
+@dataclass(frozen=True)
+class DataTransformationConfig:
+    root_dir: Path
+    data_path: Path
+    tokenizer_name: Path
+    
+  
+@dataclass(frozen=True)
+class DataTransformationConfig:
+    root_dir: Path
+    data_path: Path
+    tokenizer_name: Path

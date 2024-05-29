@@ -30,6 +30,11 @@ What is will learn at the end of the project:
 able to create a Text Summarizer from scratch.
 
 
+### we will do these components:
+###### Data ingestion
+###### Data Validation
+###### Data Transformation
+###### model trainer
 
 
 # End to end project work flow
