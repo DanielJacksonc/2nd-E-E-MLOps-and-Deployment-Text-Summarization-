@@ -28,3 +28,16 @@ Your dedication
 
 What is will learn at the end of the project:
 able to create a Text Summarizer from scratch.
+
+
+
+
+# End to end project work flow
+Update config.yaml in config
+Update params.yaml
+Update entity -------------------------------- in src - textsummerizer - enitiy - __init_py
+Update the configuration manager in src config
+update the conponents in src
+update the pipeline in src
+update the main.py
+update the app.py
