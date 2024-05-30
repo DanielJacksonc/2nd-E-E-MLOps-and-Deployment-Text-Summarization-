@@ -35,6 +35,7 @@ able to create a Text Summarizer from scratch.
 ###### Data Validation
 ###### Data Transformation
 ###### model trainer
+###### model evaluation
 
 
 # End to end project work flow
