@@ -90,7 +90,7 @@ This is going to be an NLP PROJECT.
 
     sudo apt-get update -y
 
-    udo apt-get upgrade
+    sudo apt-get upgrade
 
     #required
 
