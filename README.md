@@ -40,14 +40,14 @@ This is going to be an NLP PROJECT.
 
 
 # End to end project work flow
-###### Update config.yaml in config
-###### Update params.yaml
-###### Update entity -------------------------------- in src - textsummerizer - enitiy - __init_py
-###### Update the configuration manager in src config -------------------------------- src - config - configurationmanager
-###### update the conponents in src---------------src-components - dataingestion.py
-###### update the pipeline in src
-###### update the main.py
-###### update the app.py
+    Update config.yaml in config
+    Update params.yaml
+    Update entity -------------------------------- in src - textsummerizer - enitiy - __init_py
+    Update the configuration manager in src config -------------------------------- src - config - configurationmanager
+    update the conponents in src---------------src-components - dataingestion.py
+    update the pipeline in src
+    update the main.py
+    update the app.py
 
 
 
@@ -55,11 +55,11 @@ This is going to be an NLP PROJECT.
 ## 1. Login to AWS console.
 ## 2. Create IAM user for deployment
 
-#with specific access
+    #with specific access
 
-##### 1. EC2 access : It is virtual machine
+    1. EC2 access : It is virtual machine
 
-##### 2. ECR: Elastic Container registry to save your docker image in aws
+    2. ECR: Elastic Container registry to save your docker image in aws
 
 
 #Description: About the deployment
